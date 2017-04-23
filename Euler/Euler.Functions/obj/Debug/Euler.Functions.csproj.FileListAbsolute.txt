@@ -1,0 +1,8 @@
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\bin\Debug\Euler.Functions.dll
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\bin\Debug\Euler.Functions.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\bin\Debug\Meta.Numerics.dll
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\bin\Debug\Meta.Numerics.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\bin\Debug\Meta.Numerics.xml
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\obj\Debug\Euler.Functions.dll
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\obj\Debug\Euler.Functions.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.Functions\obj\Debug\Euler.Functions.csprojResolveAssemblyReference.cache

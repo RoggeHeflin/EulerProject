@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.Functions", "Euler.Functions\Euler.Functions.csproj", "{FACDBC25-CEEA-40AD-AC99-3D36F119D30C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.FunctionsTest", "Euler.FunctionsTest\Euler.FunctionsTest.csproj", "{D90C5DF0-9EFB-4CC9-880F-4B17DBAF281B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler.Ux.Cli", "Euler.Ux.Cli\Euler.Ux.Cli.csproj", "{5AD087BD-19E3-49BE-93BB-BC604780C243}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://roggeheflin.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Euler.Functions\\Euler.Functions.csproj
+		SccProjectName1 = Euler.Functions
+		SccLocalPath1 = Euler.Functions
+		SccProjectUniqueName2 = Euler.FunctionsTest\\Euler.FunctionsTest.csproj
+		SccProjectName2 = Euler.FunctionsTest
+		SccLocalPath2 = Euler.FunctionsTest
+		SccProjectUniqueName3 = Euler.Ux.Cli\\Euler.Ux.Cli.csproj
+		SccProjectName3 = Euler.Ux.Cli
+		SccLocalPath3 = Euler.Ux.Cli
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACDBC25-CEEA-40AD-AC99-3D36F119D30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACDBC25-CEEA-40AD-AC99-3D36F119D30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACDBC25-CEEA-40AD-AC99-3D36F119D30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACDBC25-CEEA-40AD-AC99-3D36F119D30C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90C5DF0-9EFB-4CC9-880F-4B17DBAF281B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90C5DF0-9EFB-4CC9-880F-4B17DBAF281B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90C5DF0-9EFB-4CC9-880F-4B17DBAF281B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90C5DF0-9EFB-4CC9-880F-4B17DBAF281B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AD087BD-19E3-49BE-93BB-BC604780C243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AD087BD-19E3-49BE-93BB-BC604780C243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AD087BD-19E3-49BE-93BB-BC604780C243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AD087BD-19E3-49BE-93BB-BC604780C243}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

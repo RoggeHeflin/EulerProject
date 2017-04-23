@@ -1,0 +1,11 @@
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Euler.Ux.Cli.exe.config
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Euler.Ux.Cli.exe
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Euler.Ux.Cli.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Euler.Functions.dll
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Meta.Numerics.dll
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Euler.Functions.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Meta.Numerics.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\bin\Debug\Meta.Numerics.xml
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\obj\Debug\Euler.Ux.Cli.csprojResolveAssemblyReference.cache
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\obj\Debug\Euler.Ux.Cli.exe
+D:\VS2015 Projects\Euler\Euler\Euler.Ux.Cli\obj\Debug\Euler.Ux.Cli.pdb

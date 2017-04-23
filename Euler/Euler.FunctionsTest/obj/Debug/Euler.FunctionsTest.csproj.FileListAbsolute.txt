@@ -1,0 +1,10 @@
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\bin\Debug\Euler.FunctionsTest.dll
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\bin\Debug\Euler.FunctionsTest.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\bin\Debug\Euler.Functions.dll
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\bin\Debug\Meta.Numerics.dll
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\bin\Debug\Euler.Functions.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\bin\Debug\Meta.Numerics.pdb
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\bin\Debug\Meta.Numerics.xml
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\obj\Debug\Euler.FunctionsTest.csprojResolveAssemblyReference.cache
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\obj\Debug\Euler.FunctionsTest.dll
+D:\VS2015 Projects\Euler\Euler\Euler.FunctionsTest\obj\Debug\Euler.FunctionsTest.pdb
